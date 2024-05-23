@@ -4,7 +4,7 @@ Welcome to the recursive partitioning project! This README file provides instruc
 
 ## Live demo
 
-[https://alphabet-tile-interaction-jade.vercel.app/](https://muhammadamithasan.github.io/Recursive-partitioning/)
+https://muhammadamithasan.github.io/Recursive-partitioning/
 
 ## Installation
 
